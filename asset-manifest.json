@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WeatherPulse/static/css/main.fbc16618.chunk.css",
+    "main.js": "/WeatherPulse/static/js/main.313a732c.chunk.js",
+    "main.js.map": "/WeatherPulse/static/js/main.313a732c.chunk.js.map",
+    "runtime-main.js": "/WeatherPulse/static/js/runtime-main.fdaaab07.js",
+    "runtime-main.js.map": "/WeatherPulse/static/js/runtime-main.fdaaab07.js.map",
+    "static/js/2.75e5e61b.chunk.js": "/WeatherPulse/static/js/2.75e5e61b.chunk.js",
+    "static/js/2.75e5e61b.chunk.js.map": "/WeatherPulse/static/js/2.75e5e61b.chunk.js.map",
+    "index.html": "/WeatherPulse/index.html",
+    "precache-manifest.42187b16c093b6c304e48c97121c1bfc.js": "/WeatherPulse/precache-manifest.42187b16c093b6c304e48c97121c1bfc.js",
+    "service-worker.js": "/WeatherPulse/service-worker.js",
+    "static/css/main.fbc16618.chunk.css.map": "/WeatherPulse/static/css/main.fbc16618.chunk.css.map",
+    "static/js/2.75e5e61b.chunk.js.LICENSE.txt": "/WeatherPulse/static/js/2.75e5e61b.chunk.js.LICENSE.txt",
+    "static/media/WeatherIcons.gif": "/WeatherPulse/static/media/WeatherIcons.0a218296.gif",
+    "static/media/App.css": "/WeatherPulse/static/media/city.e1698332.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdaaab07.js",
+    "static/js/2.75e5e61b.chunk.js",
+    "static/css/main.fbc16618.chunk.css",
+    "static/js/main.313a732c.chunk.js"
+  ]
+}
